@@ -1,4 +1,4 @@
-![I am a Frontend developer.](<./github-header-image%20.jpeg>)
+![I am a Frontend developer.](<./github-header-image.png>)
 
 # Hello and Welcome 👋, I'm Ahmad Mohamed Hassan 
 
